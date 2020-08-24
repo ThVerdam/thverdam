@@ -3,13 +3,14 @@
 # Thomas Verdam
 
 Sou apaixonado por aprender novas tecnologias e resolver problemas.
-Estudando para um dia me tornar um FullStack Developer :computer:
+<br/>Estudando para um dia me tornar um FullStack Developer :computer:
 
  :boy:  &nbsp; Atualmente desempregado
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gosto de jogar LoL com os amigos no tempo vago e assistir umas séries
+ <br/>
  <center>
-<table>
+ <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThVerdam&hide=html&layout=compact&theme=tokyonight" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=ThVerdam&show_icons=true&include_all_commits=true&theme=tokyonight" /></td>
