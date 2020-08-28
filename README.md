@@ -5,7 +5,7 @@ Sou apaixonado por aprender novas tecnologias e resolver problemas.
 
  :boy:  &nbsp; Atualmente desempregado
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gosto de jogar LoL com os amigos no tempo vago e assistir umas séries
+ <br/> 💬  &nbsp; Sobre mim: Viciado em café, gosto de jogar LoL com os amigos no tempo vago e assistir umas séries
  <br/>
  <center>
  <table>
