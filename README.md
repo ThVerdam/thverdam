@@ -1,4 +1,4 @@
-# Olá pessoal 👋
+# Olá 👋
 
 Sou apaixonado por aprender novas tecnologias e resolver problemas.
 <br/>Estudando para um dia me tornar um FullStack Developer :computer:
