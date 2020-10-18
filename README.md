@@ -3,8 +3,8 @@
 Sou apaixonado por aprender novas tecnologias e resolver problemas.
 <br/>Estudando para um dia me tornar um FullStack Developer :computer:
 
- :boy:  &nbsp; Atualmente desempregado
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ 
+ :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> 💬  &nbsp; Sobre mim: Viciado em café, gosto de jogar LoL com os amigos no tempo vago e assistir umas séries
  <br/>
  <center>
