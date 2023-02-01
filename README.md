@@ -22,15 +22,3 @@
 </div>
 
 ###
-
-<p align="left">Take a cup of coffee and listen to:</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ithomasdzn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ithomasdzn" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
