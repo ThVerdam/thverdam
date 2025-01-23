@@ -1,8 +1,10 @@
-<h2 align="left">Olá, me chamo Thomas!</h2>
+<h2 align="left">Olá, me chamo Thomas!🇧🇷 / Hi, my name is Thomas!🇺🇸</h2>
 
 ###
 
-<h4 align="left">Sou completamente apaixonado por programação e cada dia estou estudando mais pra desbravar esse vasto mundo. Gosto de ouvir músicas e jogar com amigos nos tempos vagos.</h4>
+<h4 align="left">🇧🇷 Sou completamente apaixonado por programação e cada dia estou estudando mais pra desbravar esse vasto mundo. Gosto de ouvir músicas e jogar com amigos nos tempos vagos.</h4>
+
+<h4 align="left">🇺🇸 I am completely passionate about programming and every day I am studying more to explore this vast world. I like listening to music and playing with friends in my spare time.</h4>
 
 ###
 
