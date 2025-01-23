@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Thomas!🇧🇷 / Hi, my name is Thomas!🇺🇸</h2>
+<h2 align="left">🇧🇷 Olá, me chamo Thomas! / 🇺🇸 Hi, my name is Thomas!</h2>
 
 ###
 
