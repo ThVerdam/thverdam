@@ -1,12 +1,8 @@
-<h2 align="left">🇧🇷 Olá, me chamo Thomas! / 🇺🇸 Hi, my name is Thomas!</h2>
+## Olá, me chamo Thomas! / 🇺🇸 Hi, my name is Thomas!
 
-###
+<p align="left">🇧🇷 Sou completamente apaixonado por programação e cada dia estou estudando mais pra desbravar esse vasto mundo. Gosto de ouvir músicas e jogar com amigos nos tempos vagos.</p>
 
-<h4 align="left">🇧🇷 Sou completamente apaixonado por programação e cada dia estou estudando mais pra desbravar esse vasto mundo. Gosto de ouvir músicas e jogar com amigos nos tempos vagos.</h4>
-
-<h4 align="left">🇺🇸 I am completely passionate about programming and every day I am studying more to explore this vast world. I like listening to music and playing with friends in my spare time.</h4>
-
-###
+<p align="left">🇺🇸 I am completely passionate about programming and every day I am studying more to explore this vast world. I like listening to music and playing with friends in my spare time.</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
