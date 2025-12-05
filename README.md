@@ -14,8 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=thverdam" height="150" alt="languages graph"  />
-</div>
+<a href="https://app.rocketseat.com.br/me/thverdam"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=thverdam&type=card" width="280" alt="Thomas Verdam's Rocket ID"/></a>
 
 ###
