@@ -14,6 +14,7 @@
 
 ###
 
-<a align="center" href="https://app.rocketseat.com.br/me/thverdam"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=thverdam&type=card" width="280" alt="Thomas Verdam's Rocket ID"/></a>
-
+<div align="center">
+  <a align="center" href="https://app.rocketseat.com.br/me/thverdam"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=thverdam&type=card" width="280" alt="Thomas Verdam's Rocket ID"/></a>
+</div>
 ###
